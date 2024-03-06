@@ -5,6 +5,6 @@ public class CounterRunner {
         counter.click();
         int value1 = counter.getValue();
 
-        System.out.println(value + "\n" + value1);
+//        System.out.println(value + "\n" + value1);
     }
 }
